@@ -1,6 +1,6 @@
 --- 
 version: 2.1
-osbs:
+orbs:
   snyk: snyk/snyk@1.4.0
 jobs: 
   build: 
